@@ -41,14 +41,14 @@ const webLinks = [
         url: 'tiktok.com/@luci_fang/',
         type: 'social',
         icon: '/tiktok.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
         url: 'youtube.com/@luci_fang/',
         type: 'social',
         icon: '/youtube.svg',
-        on: true
+        on: false
     },
     {
         title: 'Figma',
@@ -97,14 +97,14 @@ const webLinks = [
         url: 'https://depop.com/luci_fang/',
         type: 'social',
         icon: '/depop.svg',
-        on: true
+        on: false
     },
     {
         title: 'Somms Choice',
         url: 'https://sommschoice.com.au/',
         type: 'social',
         icon: '/sommschoice.svg',
-        on: true
+        on: false
     },
     {
         title: 'foundation',
@@ -128,6 +128,59 @@ const webLinks = [
         on: false
     },
     // Projects section
+    {
+        title: 'TikTok',
+        url: 'tiktok.com/@luci_fang/',
+        type: 'My Links',
+        icon: '/tiktok.svg',
+        on: true
+    },
+    {
+        title: 'YouTube',
+        url: 'youtube.com/@luci_fang/',
+        type: 'My Links',
+        icon: '/youtube.svg',
+        on: true
+    },
+    {
+        title: 'Depop',
+        url: 'https://depop.com/luci_fang/',
+        type: 'My Links',
+        icon: '/depop.svg',
+        on: true
+    },
+    {
+        title: 'Somms Choice',
+        url: 'https://sommschoice.com.au/',
+        type: 'My Links',
+        icon: '/sommschoice.svg',
+        on: true
+    },
+
+
+    {
+        title: 'Azure Fundamentals',
+        url: 'https://learn.microsoft.com/en-us/users/ovegovender-9966/credentials/c68177e66065c6c4?ref=https%3A%2F%2Fwww.linkedin.com%2F',
+        type: 'certification',
+        icon: '/azure.png',
+        on: false
+    },
+
+    {
+        title: 'Cloud Practitioner',
+        url: 'https://www.credly.com/badges/80788f62-def7-4491-8070-cd3a1b434f9d/linked_in_profile',
+        type: 'certification',
+        icon: '/awscp.png',
+        on: false
+    },
+
+    {
+        title: 'Solutions Architect Associate',
+        url: 'https://www.credly.com/badges/d3d7a143-70e4-4a8a-acb6-78b7370239f0/linked_in_profile',
+        type: 'certification',
+        icon: '/awssa.png',
+        on: false
+    },
 ];
 
 export default webLinks;

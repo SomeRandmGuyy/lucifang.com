@@ -35,7 +35,7 @@ const Links = () => {
   });
 
   const install = allLinks.filter((el) => {
-    return el.type === "projects" && el.on
+    return el.type === "My Links" && el.on
   });
 
   const nfts = allLinks.filter((el) => {
