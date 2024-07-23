@@ -2,15 +2,15 @@
 const bioData = [
     {
         name: 'Ove',
-        username: 'SomeRandmGuyy',
+        username: 'Ove Govender',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'I am a Web Development student and a certified IT Technician based in Sydney. ',
+        description: '|NuxtJS |VueJS |Laravel |NextJS |React |PHP |JavaScript |AWS |Azure |GCP |IT Support |Web Development| ',
         descShow: true,
-        subdesc: 'Nuxtjs and Laravel are what i spend most of my time developing with.',
+        subdesc: 'I am based in Sydney, Qualified IT Technician, 3 Cloud Certificates, Studying a diploma, Aspiring Web Developer.',
         subdescShow: true,
-        author: 'Ove Govender',
+        author: 'SomeRandmGuyy',
         footerText: 'designed by'
     },
 ];

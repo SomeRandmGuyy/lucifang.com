@@ -6,7 +6,7 @@ export default {
         url: 'https://thelinkinmy.bio',
         description: 'My personal landing page for my socia, certification & professional links.',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, south african designer, oveshen govender, somerandmguyy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: 'designer, product designer, illustrator, south african designer, oveshen govender, somerandmguyy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, ove SomeRandmGuyy, indian ui designer, design india, overlayz, nft art',
         images: [
             {
                 width: 1200,

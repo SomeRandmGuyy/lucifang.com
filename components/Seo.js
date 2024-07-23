@@ -25,11 +25,11 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'vjy.me',
+                    site_name: '3three.io',
                 }}
                 twitter={{
-                    handle: '@realvjy',
-                    site: 'vjy.me',
+                    handle: '@ovshn',
+                    site: '3three.io',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{

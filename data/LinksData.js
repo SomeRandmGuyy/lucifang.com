@@ -17,14 +17,14 @@ const webLinks = [
     },
     {
         title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        url: 'https://dribbble.com/',
         type: 'social',
         icon: '/dribbble.svg',
         on: false
     },
     {
         title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        url: 'https://medium.com/@',
         type: 'social',
         icon: '/medium.svg',
         on: false
@@ -38,21 +38,21 @@ const webLinks = [
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://youtube.com/',
         type: 'social',
         icon: '/youtube.svg',
         on: false
     },
     {
         title: 'Figma',
-        url: 'https://figma.com/@realvjy',
+        url: 'https://figma.com/@',
         type: 'social',
         icon: '/figma.svg',
         on: false
     },
     {
         title: 'Behance',
-        url: 'https://behance.net/realvjy',
+        url: 'https://behance.net/',
         type: 'social',
         icon: '/behance.svg',
         on: false
@@ -66,21 +66,21 @@ const webLinks = [
     },
     {
         title: 'Mastodon',
-        url: 'https://mastodon.online/@realvjy',
+        url: 'https://mastodon.online/@',
         type: 'social',
         icon: '/mastodon.svg',
         on: false
     },
     {
         title: 'Hive Social',
-        url: 'https://www.hivesocial.app/?@realvjy',
+        url: 'https://www.hivesocial.app/?@',
         type: 'social',
         icon: '/hive.svg',
         on: false
     },
     {
         title: 'Post',
-        url: 'https://www.post.news/realvjy',
+        url: 'https://www.post.news/',
         type: 'social',
         icon: '/post.svg',
         on: false
@@ -115,26 +115,27 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Virtual Assistant',
-        url: 'https://nuxt-openai-six.vercel.app/',
+        title: 'Professional Site',
+        url: 'https://www.3three.io',
         type: 'projects',
         icon: '/vercel.svg',
         on: true
     },
     {
-        title: 'Documentation',
-        url: 'https://3three-info.vercel.app/',
-        type: 'projects',
-        icon: '/doc.png',
-        on: true
-    },
-    {
-        title: 'Main Website',
-        url: 'https://nuxtt.3three.io/',
+        title: 'Personal Site',
+        url: 'https://www.3three.me',
         type: 'projects',
         icon: '/new-up.svg',
         on: true
     },
+    {
+        title: 'Learn With Me',
+        url: 'https://www.3three.info',
+        type: 'projects',
+        icon: '/doc.png',
+        on: true
+    },
+
 
     {
         title: 'Azure Fundamentals',
