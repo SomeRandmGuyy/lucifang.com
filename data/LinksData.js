@@ -6,14 +6,14 @@ const webLinks = [
         url: 'https://twitter.com/ovshn_',
         type: 'social',
         icon: '/twitter.svg',
-        on: true
+        on: false
     },
     {
         title: 'Instagram',
         url: 'https://instagram.com/ovshn_',
         type: 'social',
         icon: '/insta.svg',
-        on: true
+        on: false
     },
     {
         title: 'Dribbble',
@@ -34,14 +34,21 @@ const webLinks = [
         url: 'https://github.com/somerandmguyy',
         type: 'social',
         icon: '/github.svg',
+        on: false
+    },
+    {
+        title: 'TikTok',
+        url: 'tiktok.com/@luci_fang/',
+        type: 'social',
+        icon: '/tiktok.svg',
         on: true
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/',
+        url: 'youtube.com/@luci_fang/',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
+        on: true
     },
     {
         title: 'Figma',
@@ -62,7 +69,7 @@ const webLinks = [
         url: 'https://www.linkedin.com/in/oveshen-govender/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: true
+        on: false
     },
     {
         title: 'Mastodon',
@@ -86,6 +93,20 @@ const webLinks = [
         on: false
     },
     {
+        title: 'Depop',
+        url: 'https://depop.com/luci_fang/',
+        type: 'social',
+        icon: '/depop.svg',
+        on: true
+    },
+    {
+        title: 'Somms Choice',
+        url: 'https://sommschoice.com.au/',
+        type: 'social',
+        icon: '/sommschoice.svg',
+        on: true
+    },
+    {
         title: 'foundation',
         url: 'https://vjy.me',
         type: 'nft',
@@ -107,59 +128,6 @@ const webLinks = [
         on: false
     },
     // Projects section
-    {
-        title: 'Resume',
-        url: '/resume.docx',
-        type: 'projects',
-        icon: '/use.png',
-        on: true
-    },
-    {
-        title: 'Professional Site',
-        url: 'https://www.3three.io',
-        type: 'projects',
-        icon: '/vercel.svg',
-        on: true
-    },
-    {
-        title: 'Personal Site',
-        url: 'https://www.3three.me',
-        type: 'projects',
-        icon: '/new-up.svg',
-        on: true
-    },
-    {
-        title: 'Learn With Me',
-        url: 'https://www.3three.info',
-        type: 'projects',
-        icon: '/doc.png',
-        on: true
-    },
-
-
-    {
-        title: 'Azure Fundamentals',
-        url: 'https://learn.microsoft.com/en-us/users/ovegovender-9966/credentials/c68177e66065c6c4?ref=https%3A%2F%2Fwww.linkedin.com%2F',
-        type: 'certifications',
-        icon: '/azure.png',
-        on: true
-    },
-
-    {
-        title: 'Cloud Practitioner',
-        url: 'https://www.credly.com/badges/80788f62-def7-4491-8070-cd3a1b434f9d/linked_in_profile',
-        type: 'certifications',
-        icon: '/awscp.png',
-        on: true
-    },
-
-    {
-        title: 'Solutions Architect Associate',
-        url: 'https://www.credly.com/badges/d3d7a143-70e4-4a8a-acb6-78b7370239f0/linked_in_profile',
-        type: 'certifications',
-        icon: '/awssa.png',
-        on: true
-    },
 ];
 
 export default webLinks;
